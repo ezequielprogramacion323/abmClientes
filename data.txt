@@ -1,0 +1,1 @@
+[{"dni":"37659307","nombre":"Ezequiel Galvez","telefono":"1132112379","correo":"ezequielprogramacion323@gmail.com","imagen":"2020080507082009.png"}]
